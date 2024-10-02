@@ -9,7 +9,7 @@ Length in kilometer = 0.01 km
 1m = 100cm
 1km = 1000m
 1km = 1000 *1m
-1km = 1000 * 100 * 1cm
+1km = 1000 * 100cm
 
 
 """
